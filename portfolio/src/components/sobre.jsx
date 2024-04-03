@@ -58,7 +58,7 @@ font-family: "Monomaniac One", sans-serif;
 const Figure2 = styled.figure`
 width: 20vw;
 position: relative;
-bottom: 210px;
+bottom: 180px;
 left: 20px;
 display: flex;
 justify-content: space-evenly;

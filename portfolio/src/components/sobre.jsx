@@ -98,7 +98,7 @@ function Sobre (){
             <img src={Imagem1}alt="Uma foto minha" />
             <figcaption>
                 <span>Meu</span> Nome é Luis Henrique Bloomfield Zardo, tenho 29 anos, sou natural do Rio Grande do Sul, aos 18 anos entrei como jovem aprendiz de Mecânico Diesel
-                em uma empresa de Fretamento e Turismo no Estado do Rio de Janeiro e é onde permaneço até hoje como Mecânico Diesel, atualemente estou buscando fazer o que sempre gostei
+                em uma empresa de Fretamento e Turismo no Estado do Rio de Janeiro e é onde permaneço até hoje como Mecânico Diesel, atualmente estou buscando fazer o que sempre gostei
                 que é a área da tecnologia!.
                 </figcaption>
 
